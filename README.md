@@ -5,4 +5,4 @@
 A very simple game I created using vanilla javascript, html, and css. Guess number between 1-20
 
 Live Link:
-[http://127.0.0.1:5500/Guess-My-Number/index.html](https://guess-my-number-uri.netlify.app/)
+[GUESS MY NUMBER](https://guess-my-number-uri.netlify.app/)
