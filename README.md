@@ -1,4 +1,4 @@
-![Screenshot 2023-01-23 at 16 22 29](https://user-images.githubusercontent.com/93989404/214078199-036a108d-853e-4489-8b12-c791a9e7ba79.png)
+![Screenshot 2023-01-23 at 16 24 23](https://user-images.githubusercontent.com/93989404/214078368-8ad4a449-ac5a-412c-bbdd-aa96592b14d9.png)
 
 # Guess-My-Number
 
